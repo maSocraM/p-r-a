@@ -1,0 +1,186 @@
+[
+    {
+      "_id": "5da88906a9497b001d834ab9",
+      "title": "A3 SportBack",
+      "brand": "AUDI",
+      "price": "86000",
+      "age": 2018,
+      "__v": 0
+    },
+    {
+      "_id": "5dada1efa9497b001d834ae1",
+      "title": "palioV3",
+      "brand": "fiat",
+      "price": "12",
+      "age": 23,
+      "__v": 0
+    },
+    {
+      "_id": "5dadfa5ca9497b001d834af3",
+      "title": "Pickup2",
+      "brand": "Ranger2",
+      "price": "100002",
+      "age": 12,
+      "__v": 0
+    },
+    {
+      "_id": "5dae5aaad276850017eaff35",
+      "title": "Uno",
+      "brand": "fiat",
+      "price": "10",
+      "age": 10,
+      "__v": 0
+    },
+    {
+      "_id": "5f19beddba039c0030107049",
+      "title": "New Fiesta",
+      "brand": "Ford",
+      "price": "50000",
+      "age": 2019,
+      "__v": 0
+    },
+    {
+      "_id": "5f19d30bba039c003010704d",
+      "title": "Corsa Preto",
+      "brand": "chevrolet",
+      "price": "20000",
+      "age": 2006,
+      "__v": 0
+    },
+    {
+      "_id": "5f19e7abba039c003010704e",
+      "title": "bora",
+      "brand": "volkswagen",
+      "price": "1230",
+      "age": 23,
+      "__v": 0
+    },
+    {
+      "_id": "5f19f1a6ba039c0030107051",
+      "title": "Uno teste 25",
+      "brand": "Fiat teste 25",
+      "price": "100",
+      "age": 15,
+      "__v": 0
+    },
+    {
+      "_id": "5f1a23fbba039c00301071b7",
+      "brand": "Honda",
+      "title": "CR-V",
+      "price": "20000.00",
+      "age": 2010,
+      "__v": 0
+    },
+    {
+      "_id": "5f1a5abcba039c00301071b9",
+      "title": "fusca",
+      "brand": "volkswagen",
+      "price": "100000",
+      "age": 14,
+      "__v": 0
+    },
+    {
+      "_id": "5f1af2b9ba039c00301071ba",
+      "brand": "Pegeout",
+      "title": "206",
+      "price": "30000.00",
+      "age": 2020,
+      "__v": 0
+    },
+    {
+      "_id": "5f1b0a5bba039c00301071bc",
+      "brand": "Jeep",
+      "title": "Renegade",
+      "price": "31000.00",
+      "age": 2018,
+      "__v": 0
+    },
+    {
+      "_id": "5f1c36ddba039c00301071be",
+      "title": "Kombi",
+      "brand": "VW",
+      "price": "12345.67",
+      "age": 1974,
+      "__v": 0
+    },
+    {
+      "_id": "5f1c3c3eba039c00301071c2",
+      "title": "gol",
+      "brand": "vw",
+      "price": "1",
+      "age": 1,
+      "__v": 0
+    },
+    {
+      "_id": "5f1c9919ba039c00301071d2",
+      "title": "Fiesta",
+      "brand": "Ford",
+      "price": "1299",
+      "age": 2003,
+      "__v": 0
+    },
+    {
+      "_id": "5f1ca3c5ba039c00301071e7",
+      "title": "Fusca",
+      "brand": "Volkswagen",
+      "price": "9820",
+      "age": 1975,
+      "__v": 0
+    },
+    {
+      "_id": "5f1ca7cfba039c00301071f0",
+      "title": "Maverick",
+      "brand": "Chevrolet",
+      "price": "50000",
+      "age": 1974,
+      "__v": 0
+    },
+    {
+      "_id": "5f1c98faba039c00301071d1",
+      "title": "Fiesta",
+      "brand": "Ford",
+      "price": "1299",
+      "age": 2003,
+      "__v": 0
+    },
+    {
+      "_id": "5f1c996dba039c00301071d3",
+      "title": "Passat",
+      "brand": "VW",
+      "price": "2000",
+      "age": 1987,
+      "__v": 0
+    },
+    {
+      "_id": "5f1c99abba039c00301071d4",
+      "title": "Do Batman",
+      "brand": "Wayne Motors",
+      "price": "999999",
+      "age": 2007,
+      "__v": 0
+    },
+    {
+      "_id": "5f1c9d9cba039c00301071da",
+      "title": "Civic",
+      "brand": "Honda",
+      "price": "176840",
+      "age": 2012,
+      "__v": 0
+    },
+    {
+      "_id": "5f1ca82eba039c00301071f1",
+      "title": "Maverick",
+      "brand": "Chevrolet",
+      "price": "50000",
+      "age": 1975,
+      "__v": 0
+    },
+    {
+      "_id": "5f1cb49aba039c00301071f2",
+      "title": "Mustang",
+      "brand": "Ford",
+      "price": "2055050",
+      "age": 2021,
+      "__v": 0
+    }
+  ]
